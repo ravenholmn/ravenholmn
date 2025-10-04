@@ -1,16 +1,13 @@
 # About Me
-Hi, I'm **Kaan Özçelik** 👋, a **game developer** with over 3 years of experience and a deep passion for creating meaningful, fun experiences. I specialize in **Unity**, **JavaScript (Pixi.js)**, and **Three.js**, and love bringing game ideas to life. 🎮💡
+Hi, I'm **Kaan Özçelik** 👋, a **game developer** with over 4 years of experience and a deep passion for creating meaningful, fun experiences. I specialize in **Unity**, **JavaScript (Pixi.js)**, and **Three.js**, and love bringing game ideas to life. 🎮💡
 
 ---
 
 # Projects
 
-### Nightmariners *(Co-founder, Ocean's Call Studios) (Ongoing)*  
+### Nightmariners *(Ex Co-founder, Ocean's Call Studios)*  
 [Wishlist on Steam](https://store.steampowered.com/app/3325020/Nightmariners/)  
 A cooperative horror game where up to 4 players navigate a ship through dangerous seas, evading terrifying sea monsters along the way. The core gameplay focuses on **carrying cargo** from point A to point B, with survival focusing on encounters with sea monsters. 🛳️🌊
-
-### Dungeon Cooking *(Personal Project) (Ongoing)*  
-A cozy mix of **dungeon crawling** and **restaurant management** 🍲🛡️. You explore dungeons, gather loot, and then turn those materials into delicious meals for your customers. 🏹🍳
 
 ### Fail Forward *(Game Jam Project)*  
 [Play on Itch.io](https://kamos-dev.itch.io/fail-forward)  
